@@ -1,0 +1,6 @@
+clc
+clear;
+I1 = imread('InputImages/test2.jpg');
+I2 = imread('OutputImages/test2.jpg');
+[PSNR,MSE]=Compute_MSE_PSNR(I1,I2);
+disp(PSNR);
