@@ -6,11 +6,11 @@
 
 文章中的算法流程图如下：
 
-![avatar](流程图1.png)
+![avatar](underwaterCorrection/流程图1.png)
 
 本程序实现了暗通道先验及自适应颜色校正，主要的详细流程变更为下图所示：
 
-![avatar](流程图2.png)
+![avatar](underwaterCorrection/流程图2.png)
 
 各部分的内容在参考文献中给出，这里不再赘述。
 
